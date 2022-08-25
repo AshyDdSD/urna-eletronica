@@ -61,4 +61,4 @@ Mas vamos para o que importa: O Teste.
 
 \*: _o importante são os outros pontos, mas esse poderá ser escolhido como ponto de desempate_
 
-## Projeto com parceria com a escola Profª Luiza de Teodoro Vieira
+## Projeto com parceria com a escola Profª Luiza de Teodoro Vieira (Ashy)
